@@ -1,0 +1,28 @@
+name: SethLarney
+favicon: null
+layout_spectrum: 0.05869096703827381
+typography_spectrum: 0.36837498750537634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.10298757045529783
+  lightness: 0.8848985393997282
+  saturation: 0.5815625095274299
+  rhythmicContrast: 0.060223449021577835
+purpose: []
