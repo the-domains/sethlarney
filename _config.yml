@@ -1,4 +1,4 @@
-name: SethLarney
+name: Seth Larney
 favicon: null
 layout_spectrum: 0.25607
 typography_spectrum: 0.52679
@@ -22,7 +22,7 @@ color:
     - '#43423e'
     - '#838f8a'
     - '#84695d'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
