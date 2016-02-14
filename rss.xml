@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SethLarney]]></title>
-        <description><![CDATA[SethLarney]]></description>
+        <title><![CDATA[Seth Larney. Film & TV Director. VFX Supervisor.]]></title>
+        <description><![CDATA[Seth Larney. Film & TV Director. VFX Supervisor.]]></description>
         <link>https://thegrid.ai/sethlarney/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 02:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 02:42:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sethlarney/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d02040f6-a5fc-46f5-a8c4-06e052af8a88.jpg">]]></description>
+            <link>https://thegrid.ai/sethlarney/5250a053-3565-4da2-897e-43d6f66f3e3e/index.html</link>
+            <guid isPermaLink="false">5250a053-3565-4da2-897e-43d6f66f3e3e</guid>
+            <pubDate>Sun, 14 Feb 2016 02:41:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is a new post]]></title>
             <description><![CDATA[<article><h1>This is a new post</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4da882b04048df24959f740b79183e84cabc69ae.jpg"></article>]]></description>
