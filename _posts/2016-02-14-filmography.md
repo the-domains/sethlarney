@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T12:44:22.632Z'
-dateModified: '2016-02-14T12:44:16.877Z'
-title: Filmography
+datePublished: '2016-02-15T02:05:30.026Z'
+dateModified: '2016-02-15T01:59:40.852Z'
+title: 'SETH LARNEY: '
 author: []
 authors: []
 publisher:
@@ -22,7 +22,7 @@ url: filmography/index.html
 _type: WebPage
 
 ---
-SETH LARNEY: 
+# SETH LARNEY: 
 
 WRITER/DIRECTOR/VFX SUPERVISOR
 
@@ -37,8 +37,7 @@ Effects Supervisor
 
 Writer, Director
 
-Feature Film in development
-Ideate Media
+Feature Film in development Ideate Media
 
 Producer: Emma Moroney
 
@@ -116,24 +115,6 @@ John Winter
 Short Film
 
 Producer: Drew Bailey
-
-RGM Artists Pty Ltd 
-
-PO Box 128, Surry Hills NSW 2010 Australia. ABN 78 163 055 972
-
-Telephone 
-
-(612) 9281 3911 • 
-
-Email 
-
-info@rgm.com.au • 
-
-Website 
-
-www.rgm.com.au
-
-!
 
 2012 MAQUISARD
 
