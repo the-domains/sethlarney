@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - sugar
   - duration
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=6uaWekLrilY'
 title: That Sugar Film - Official Trailer
-datePublished: '2016-02-14T14:57:41.658Z'
-dateModified: '2016-02-14T12:27:57.033Z'
+datePublished: '2016-04-20T15:56:23.052Z'
+dateModified: '2016-04-20T15:56:09.500Z'
 sourcePath: _posts/2016-02-14-that-sugar-film-official-trailer.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
