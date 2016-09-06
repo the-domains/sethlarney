@@ -1,8 +1,19 @@
+layout_spectrum: 0.7305494360625744
+typography_spectrum: 0.7673833533190191
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.058063642820343375
+  lightness: 0.027378149097785354
+  saturation: 0.5740248621441424
+  rhythmicContrast: 0.5950862406753004
 name: Seth Larney
 favicon: null
-layout_spectrum: 0.25293
-typography_spectrum: 0.52679
-title: 'Seth Larney. Award Winning Director & VFX Supervisor'
+title: Seth Larney. Award Winning Director & VFX Supervisor
 cta:
   domain: null
   bucket: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ededed'
-    - '#111015'
-    - '#43423e'
-    - '#838f8a'
-    - '#84695d'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0.625
-  rhythmicContrast: 0
 purpose: []
